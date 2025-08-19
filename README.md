@@ -1,3 +1,10 @@
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=56&duration=2200&pause=800&center=true&vCenter=true&repeat=true&width=900&lines=Welcome+to+my+repo"
+    alt="Welcome to my repo..." />
+</h1>
+
+
 # Hi, I’m Atharva Pore 👋
 
 I’m an **AI Engineer and graduate student in Artificial Intelligence** with a passion for building **scalable, real-world AI systems**. My background combines **machine learning, data engineering, and software development**, with experience spanning academic research and industry applications.
