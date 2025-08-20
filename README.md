@@ -10,7 +10,7 @@ Outside of academics and work, I’m deeply interested in **open-source collabor
 
 ---
 # 🚀 Languages I Speak
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -22,7 +22,7 @@ Outside of academics and work, I’m deeply interested in **open-source collabor
 ---
 
 # 📚 Tools & Frameworks I Work With
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -36,7 +36,7 @@ Outside of academics and work, I’m deeply interested in **open-source collabor
 ---
 
 # ⚙️ Development & Platforms
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
@@ -48,7 +48,7 @@ Outside of academics and work, I’m deeply interested in **open-source collabor
 ---
 
 # 🏆 Achievements
-<p align="center">
+<p align="left">
   🥇 Winner of <b>Hack Dearborn Interactive Media Challenge</b><br>
   📜 Certified <b>Applied Machine Learning Engineer</b> (University of Michigan, Coursera)<br>
   🐍 <b>PCEP Certified Python Developer</b>
@@ -57,7 +57,7 @@ Outside of academics and work, I’m deeply interested in **open-source collabor
 ---
 
 # 📬 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/atharva-pore">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
