@@ -10,52 +10,65 @@ Outside of academics and work, I’m deeply interested in **open-source collabor
 
 ---
 
-## 🚀 Languages I Speak
+# 🚀 Languages I Speak
 
-![Python](https://img.shields.io/badge/-Python-blue)
-![C++](https://img.shields.io/badge/-C++-00599C)
-![Java](https://img.shields.io/badge/-Java-orange)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![R](https://img.shields.io/badge/-R-276DC3)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)
-
----
-
-## 📚 Tools & Frameworks I Work With
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00)
-![Keras](https://img.shields.io/badge/-Keras-D00000)
-![NumPy](https://img.shields.io/badge/-NumPy-013243)
-![Pandas](https://img.shields.io/badge/-Pandas-150458)
-![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C)
-![Dask](https://img.shields.io/badge/-Dask-FF9900)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img src="https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql&logoColor=white" height="30" />
+</p>
 
 ---
 
-## ⚙️ Development & Platforms
+# 📚 Tools & Frameworks I Work With
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
-![PyCharm](https://img.shields.io/badge/-PyCharm-21D789)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00)
-![Azure](https://img.shields.io/badge/-Azure-0078D4)
-![AWS](https://img.shields.io/badge/-AWS-FF9900)
-
----
-
-## 🏆 Achievements
-
-* 🥇 Winner of **Hack Dearborn Interactive Media Challenge**.
-* 📜 Certified **Applied Machine Learning Engineer (University of Michigan, Coursera)**.
-* 🐍 Earned **PCEP Certified Python Developer** credential.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/-Dask-FF9900?logo=dask&logoColor=white" height="30"/>
+</p>
 
 ---
 
-## 📬 Connect with Me
+# ⚙️ Development & Platforms
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/atharva-pore)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:atharva@umich.edu)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+</p>
 
+---
+
+# 🏆 Achievements
+
+- 🥇 Winner of **Hack Dearborn Interactive Media Challenge**
+- 📜 Certified **Applied Machine Learning Engineer** (University of Michigan, Coursera)
+- 🐍 **PCEP Certified Python Developer**
+
+---
+
+# 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atharva-pore" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AtharvaPore01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  </a>
+  <a href="mailto:atharva@umich.edu">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" height="30"/>
+  </a>
+</p>
